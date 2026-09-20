@@ -1,0 +1,7 @@
+model,split,MAE,RMSE,R2,n_samples
+Random Forest,train,276.574,370.373,0.8351,7361
+Random Forest,validation,606.299,774.581,0.3386,1448
+Random Forest,test,727.194,914.197,0.1333,1470
+XGBoost,train,311.077,415.272,0.7926,7361
+XGBoost,validation,601.744,772.979,0.3414,1448
+XGBoost,test,732.229,921.292,0.1198,1470

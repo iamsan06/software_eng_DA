@@ -1,0 +1,4 @@
+split,start_year,end_year,n_rows,n_states,n_districts
+train,1990,2009,7361,20,383
+validation,2010,2013,1448,20,367
+test,2014,2017,1470,20,379

@@ -1,0 +1,410 @@
+=== SLIDE 1 ===
+  GROUP Group 2 (0, -12700, 11201400, 10299700)
+    CHILD_TEXT Freeform 3: 
+  GROUP Group 4 (11868150, 666750, 5753100, 8953500)
+    CHILD_TEXT Freeform 5: 
+  TEXT TextBox 6: Sankar S Pillai, Martin Wills
+  TEXT TextBox 7: Rainfall-Lag-Aware Crop Yield Forecasting
+  TEXT Freeform 8: 
+=== SLIDE 2 ===
+  TEXT TextBox 2: 2
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Research Context
+=== SLIDE 3 ===
+  GROUP Group 2 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  GROUP Group 5 (2105025, 1562100, 9763125, 6718300)
+    CHILD_TEXT TextBox 6: Kerala's agriculture is heavily reliant on seasonal rainfall, making it vulnerable to climatic variability. Key points include: // Dependence on Monsoons: The southwest monsoon is critical for crop growth. // Interannual Variability: Fluctuations in rainfall patterns can disrupt planting schedules. // Crop Sensitivity: Varieties respond differently to moisture levels, impacting yield. // Decision-Making Needs: Accurate forecasting is essential for planning and resource allocation. // Understanding these factors is crucial for developing effective rainfall-lag-aware yield forecasting models tailored to the region's specific needs.
+    CHILD_TEXT TextBox 7: Understanding Kerala's climate and agriculture
+  TEXT Freeform 8: 
+=== SLIDE 4 ===
+  GROUP Group 2 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  GROUP Group 5 (2105025, 1562100, 9763125, 5251450)
+    CHILD_TEXT TextBox 6: Timely forecasts enable proactive measures for resource allocation. // Accurate predictions enhance food security and economic stability. // Supports farmers in optimizing planting and harvesting schedules. // Facilitates effective risk management against adverse weather events. // Empowers stakeholders to make informed decisions regarding crop selection. // Contributes to sustainable agricultural practices by minimizing waste. // Enhances overall productivity and profitability of farming operations.
+    CHILD_TEXT TextBox 7: Key Insights into Agricultural Yield Forecasting
+  TEXT Freeform 8: 
+=== SLIDE 5 ===
+  TEXT TextBox 2: 5
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Problem Formulation
+=== SLIDE 6 ===
+  TEXT TextBox 2: 6
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 13249275, 2067009)
+    CHILD_TEXT TextBox 7: Causal Chain Analysis
+    CHILD_TEXT TextBox 8: Temporal Lag Effects on Crop Yield
+  GROUP Group 9 (1800225, 5143500, 4308497, 2959100)
+    CHILD_TEXT TextBox 10: Input
+    CHILD_TEXT TextBox 11: The model inputs historical rainfall and meteorological data to understand how previous precipitation affects crop yields, emphasizing the significance of data accuracy and relevance.
+  GROUP Group 12 (7291388, 5143500, 4010025, 2959100)
+    CHILD_TEXT TextBox 13: Temporal Exposure
+    CHILD_TEXT TextBox 14: Rainfall exposure over multiple preceding time intervals is crucial in capturing delayed physiological responses, allowing for a more comprehensive understanding of crop yield dynamics.
+  GROUP Group 15 (12172950, 5143500, 4010025, 3254375)
+    CHILD_TEXT TextBox 16: Crop Response
+    CHILD_TEXT TextBox 17: The physiological and agronomic reactions of crops to varying rainfall lag structures illustrate the complexity of relationships influencing overall yield outcomes, necessitating robust analysis for predictions.
+  TEXT Freeform 18: 
+=== SLIDE 7 ===
+  TEXT TextBox 2: 7
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Existing Approaches Overview
+=== SLIDE 8 ===
+  TEXT TextBox 2: 8
+  GROUP Group 3 (666750, 666750, 9763125, 4219575)
+    CHILD_TEXT TextBox 4: Comparison of Statistical and Machine Learning Models
+    CHILD_TEXT TextBox 5: Evaluating Approaches to Crop Yield Forecasting
+  TEXT TextBox 6: This page examines the strengths and limitations of conventional statistical models versus standard machine-learning approaches in crop yield forecasting, highlighting their different capabilities regarding temporal lag.
+  GROUP Group 7 (12172950, 5316715, 5448300, 4303535)
+    CHILD_TEXT Freeform 8: 
+  GROUP Group 9 (12172950, 666750, 5448300, 4345165)
+    CHILD_TEXT Freeform 10: 
+=== SLIDE 9 ===
+  TEXT TextBox 2: 9
+  GROUP Group 3 (666750, 666750, 9763125, 3105150)
+    CHILD_TEXT TextBox 4: Comparison of Temporal Approaches
+    CHILD_TEXT TextBox 5: Examining Time-Series and Climate-Informed Models
+  TEXT TextBox 6: This section outlines the distinctions between time-series approaches and climate-informed models, emphasizing their methodologies, strengths, and limitations in addressing rainfall-lag-aware crop yield forecasting.
+  GROUP Group 7 (12172950, 5316715, 5448300, 4303535)
+    CHILD_TEXT Freeform 8: 
+  GROUP Group 9 (12172950, 666750, 5448300, 4345165)
+    CHILD_TEXT Freeform 10: 
+=== SLIDE 10 ===
+  TEXT TextBox 2: 10
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Research Gap: Temporal Lag Structure
+=== SLIDE 11 ===
+  GROUP Group 2 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  GROUP Group 5 (2105025, 1562100, 9763125, 5441950)
+    CHILD_TEXT TextBox 6: Existing crop-yield prediction approaches frequently represent precipitation using contemporaneous or aggregated features. This methodology potentially obscures delayed and crop-specific rainfall responses. The contributions of rainfall at various time lags—such as t-1, t-2, t-4, and t-8—remain largely unknown. This lack of representation can lead to inaccurate yield forecasts, as it does not account for the complex physiological and agronomic responses of crops to delayed precipitation. A more nuanced approach that incorporates lagged rainfall data is crucial for improving the accuracy of yield predictions in Kerala's agricultural landscape.
+    CHILD_TEXT TextBox 7: Understanding the limitations of existing models
+  TEXT Freeform 8: 
+=== SLIDE 12 ===
+  GROUP Group 2 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  GROUP Group 5 (2105025, 1562100, 9763125, 5689600)
+    CHILD_TEXT TextBox 6: The research question addresses how lagged rainfall exposures contribute to yield prediction. This involves: // Analyzing the effects of rainfall at various lag times (t-1, t-2, t-3, etc.) // Determining if these lagged variables provide significant predictive power // Identifying crop-specific responses to delayed rainfall // Evaluating the influence of interannual climatic variability on lag effects // Understanding these aspects will enhance the accuracy of crop yield forecasts and offer actionable insights for agricultural planning in Kerala’s dynamic climate.
+    CHILD_TEXT TextBox 7: Exploring the impact of rainfall lag
+  TEXT Freeform 8: 
+=== SLIDE 13 ===
+  TEXT TextBox 2: 13
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Research Questions
+=== SLIDE 14 ===
+  GROUP Group 2 (0, 0, 7858125, 10287000)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  TEXT TextBox 5: Research Questions Overview
+  TEXT Freeform 6: 
+  GROUP Group 7 (10734675, 6944836, 6886575, 1780223)
+    CHILD_TEXT TextBox 8: Informative Lags
+    CHILD_TEXT TextBox 9: Identifying specific lags optimizes forecasting accuracy effectively.
+  TEXT TextBox 10: 02
+  TEXT TextBox 11: 01
+  TEXT TextBox 12: 03
+  GROUP Group 13 (10734675, 4248150, 6886575, 1780223)
+    CHILD_TEXT TextBox 14: Contemporaneous
+    CHILD_TEXT TextBox 15: Contemporaneous features may overlook critical rainfall impacts.
+  GROUP Group 16 (10734675, 1562100, 6886575, 1780223)
+    CHILD_TEXT TextBox 17: Lag-Aware
+    CHILD_TEXT TextBox 18: Lag-aware features enhance predictive capabilities significantly.
+=== SLIDE 15 ===
+  GROUP Group 2 (0, 0, 7858125, 10287000)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  TEXT TextBox 5: Optimal Lag Structures
+  TEXT Freeform 6: 
+  GROUP Group 7 (10734675, 6944836, 6886575, 1780223)
+    CHILD_TEXT TextBox 8: Explainability
+    CHILD_TEXT TextBox 9: Machine learning can clarify rainfall-yield relationships.
+  TEXT TextBox 10: 02
+  TEXT TextBox 11: 01
+  TEXT TextBox 12: 03
+  GROUP Group 13 (10734675, 4248150, 6886575, 1780223)
+    CHILD_TEXT TextBox 14: Climate
+    CHILD_TEXT TextBox 15: Climatic conditions influence lag contributions to yield.
+  GROUP Group 16 (10734675, 1562100, 6886575, 1370648)
+    CHILD_TEXT TextBox 17: Crops
+    CHILD_TEXT TextBox 18: Different crops respond uniquely to rainfall lags.
+=== SLIDE 16 ===
+  TEXT TextBox 2: 16
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Research Hypotheses
+=== SLIDE 17 ===
+  TEXT TextBox 2: 17
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 12944475, 3581400)
+    CHILD_TEXT TextBox 7: Lagged Rainfall Features
+    CHILD_TEXT TextBox 8: Improving Crop Yield Prediction Accuracy
+    CHILD_TEXT TextBox 9: Incorporating lagged rainfall features into models is expected to reduce prediction errors by capturing the delayed effects of precipitation, enhancing the accuracy of crop yield forecasts.
+  TEXT Freeform 10: 
+=== SLIDE 18 ===
+  TEXT TextBox 2: 18
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 12944475, 3581400)
+    CHILD_TEXT TextBox 7: Rainfall Contributions
+    CHILD_TEXT TextBox 8: Crop-Specific Temporal Lag Structures
+    CHILD_TEXT TextBox 9: Understanding the unique temporal lag structures of rainfall can enhance crop yield prediction, offering tailored insights that improve model robustness under varying climatic conditions in Kerala.
+  TEXT Freeform 10: 
+=== SLIDE 19 ===
+  TEXT TextBox 2: 19
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Proposed Methodology
+=== SLIDE 20 ===
+  TEXT TextBox 2: Data Acquisition
+  TEXT TextBox 3: This stage involves gathering comprehensive datasets, including historical rainfall and crop yield information, to build a robust foundation for subsequent analyses and model development.
+  TEXT TextBox 4: Data Cleaning
+  TEXT TextBox 5: Lag Feature Construction
+  TEXT TextBox 6: In this phase, the collected data will be meticulously reviewed and cleaned to remove inconsistencies, missing values, and outliers, ensuring high-quality data for accurate forecasting.
+  TEXT TextBox 7: This crucial step involves generating lagged rainfall features, allowing us to capture the delayed effects of precipitation on crop yield, thereby enhancing predictive model performance.
+  TEXT TextBox 8: Temporal Alignment
+  TEXT TextBox 9: Here, we will align the temporal datasets, synchronizing rainfall and crop yield data according to specific time intervals, thus establishing a coherent time-series for analysis.
+  TEXT AutoShape 10: 
+  GROUP Group 11 (669118, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 12: 
+  GROUP Group 13 (4983154, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 14: 
+  GROUP Group 15 (9297189, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 16: 
+  GROUP Group 17 (13611225, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 18: 
+  TEXT TextBox 19: Research Pipeline
+=== SLIDE 21 ===
+  TEXT TextBox 2: 21
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Dataset Construction Overview
+=== SLIDE 22 ===
+  TEXT TextBox 2: 22
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 13249275, 2067009)
+    CHILD_TEXT TextBox 7: Dataset Schema
+    CHILD_TEXT TextBox 8: Key Variables for Analysis
+  GROUP Group 9 (1800225, 5143500, 4308497, 2606675)
+    CHILD_TEXT TextBox 10: Rainfall
+    CHILD_TEXT TextBox 11: Rainfall is measured as a continuous variable, collected at daily or monthly temporal resolutions, serving as a primary predictor of crop yield in the analysis.
+  GROUP Group 12 (7291388, 5143500, 4010025, 2578100)
+    CHILD_TEXT TextBox 13: Temperature
+    CHILD_TEXT TextBox 14: Temperature data is also treated as a continuous variable, collected at daily or monthly resolutions, influencing crop growth and yield outcomes alongside rainfall metrics.
+  GROUP Group 15 (12172950, 5143500, 4010025, 2930525)
+    CHILD_TEXT TextBox 16: Crop Yield
+    CHILD_TEXT TextBox 17: Crop yield is recorded as a continuous variable, tracked on a seasonal or annual basis, representing the target outcome for the machine learning models used in forecasting.
+  TEXT Freeform 18: 
+=== SLIDE 23 ===
+  TEXT TextBox 2: 23
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Temporal Lag Construction
+=== SLIDE 24 ===
+  TEXT TextBox 2: 24
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 12944475, 2067009)
+    CHILD_TEXT TextBox 7: Rainfall Lag Dependency
+    CHILD_TEXT TextBox 8: Understanding Yield Relationships with Rainfall
+  GROUP Group 9 (1800225, 5143500, 5753100, 2197100)
+    CHILD_TEXT TextBox 10: Yield Function
+    CHILD_TEXT TextBox 11: The function Yield_t = f(R(t-1), R(t-2), ..., R(t-k) illustrates how yield is influenced by precipitation across multiple lags, reflecting delayed crop responses to rainfall.
+  GROUP Group 12 (9296400, 5143500, 5448300, 2197100)
+    CHILD_TEXT TextBox 13: Rain Lag Matrix
+    CHILD_TEXT TextBox 14: The notation X_rain = [R(t-1), R(t-2), ..., R(t-k)] organizes historical rainfall data into a structured matrix, aiding in the analysis of temporal effects on crop yield.
+  TEXT Freeform 15: 
+=== SLIDE 25 ===
+  TEXT TextBox 2: 25
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Analytical and Machine Learning Framework
+=== SLIDE 26 ===
+  TEXT TextBox 2: 26
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 12944475, 2067009)
+    CHILD_TEXT TextBox 7: Candidate Model Families
+    CHILD_TEXT TextBox 8: Approaches for Effective Crop Yield Forecasting
+  GROUP Group 9 (1800225, 5143500, 5753100, 2254250)
+    CHILD_TEXT TextBox 10: Baseline Models
+    CHILD_TEXT TextBox 11: Baseline models such as Linear Regression and Random Forest provide foundational approaches, focusing on simplicity and interpretability while establishing initial benchmarks for yield predictions.
+  GROUP Group 12 (9296400, 5143500, 5448300, 2225675)
+    CHILD_TEXT TextBox 13: Nonlinear Models
+    CHILD_TEXT TextBox 14: Nonlinear machine learning models like XGBoost leverage complex data patterns, allowing for better performance in capturing intricate relationships between rainfall data and crop yields.
+  TEXT Freeform 15: 
+=== SLIDE 27 ===
+  TEXT TextBox 2: 27
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Experimental Design Overview
+=== SLIDE 28 ===
+  TEXT TextBox 2: 28
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 13249275, 2067009)
+    CHILD_TEXT TextBox 7: Independent Variables
+    CHILD_TEXT TextBox 8: A Comprehensive Overview of Yield Factors
+  GROUP Group 9 (1800225, 5143500, 4308497, 2901950)
+    CHILD_TEXT TextBox 10: Rainfall Representation
+    CHILD_TEXT TextBox 11: The study considers multiple rainfall representations, including contemporaneous, cumulative, and lagged features, to assess their impact on crop yield prediction accuracy throughout the growing season.
+  GROUP Group 12 (7291388, 5143500, 4010025, 2901950)
+    CHILD_TEXT TextBox 13: Dependent Variable
+    CHILD_TEXT TextBox 14: Crop yield serves as the primary dependent variable, with measurements taken seasonally and annually, reflecting the overall agricultural productivity influenced by various climatic factors in Kerala.
+  GROUP Group 15 (12172950, 5143500, 4010025, 2901950)
+    CHILD_TEXT TextBox 16: Control and Baseline
+    CHILD_TEXT TextBox 17: The control model utilizes non-lagged climatic features, allowing for a comparative analysis against lag-aware models to evaluate the effectiveness of incorporating rainfall lag structures in predictions.
+  TEXT Freeform 18: 
+=== SLIDE 29 ===
+  TEXT TextBox 2: 29
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Baseline and Proposed Models
+=== SLIDE 30 ===
+  TEXT TextBox 2: 30
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  GROUP Group 6 (1800225, 1562100, 12944475, 2067009)
+    CHILD_TEXT TextBox 7: Baseline vs. Proposed
+    CHILD_TEXT TextBox 8: Comparing predictive modeling frameworks
+  GROUP Group 9 (1800225, 5143500, 5753100, 2197100)
+    CHILD_TEXT TextBox 10: Baseline Representation
+    CHILD_TEXT TextBox 11: The baseline model is formulated as Yield_t = f(R_t, T_t, ...), emphasizing contemporaneous rainfall and temperature without accounting for temporal lag effects on yield prediction.
+  GROUP Group 12 (9296400, 5143500, 5448300, 2197100)
+    CHILD_TEXT TextBox 13: Proposed Representation
+    CHILD_TEXT TextBox 14: The proposed model expands to Yield_t = f(R_t, R(t-1), R(t-2), ..., R(t-k), T_t, ...), integrating multiple rainfall lags to enhance predictive accuracy and better capture delayed responses.
+  TEXT Freeform 15: 
+=== SLIDE 31 ===
+  TEXT TextBox 2: 31
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Ablation Study Overview
+=== SLIDE 32 ===
+  GROUP Group 2 (0, 0, 7858125, 10287000)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  TEXT TextBox 5: Experiments Isolating Temporal Lag Contribution
+  TEXT Freeform 6: 
+  GROUP Group 7 (10734675, 6944836, 6886575, 1370648)
+    CHILD_TEXT TextBox 8: Lagged
+    CHILD_TEXT TextBox 9: Analyzes short and long-term rainfall influences.
+  TEXT TextBox 10: 02
+  TEXT TextBox 11: 01
+  TEXT TextBox 12: 03
+  GROUP Group 13 (10734675, 4248150, 6886575, 1370648)
+    CHILD_TEXT TextBox 14: Cumulative
+    CHILD_TEXT TextBox 15: Assesses total rainfall effects over time.
+  GROUP Group 16 (10734675, 1562100, 6886575, 1370648)
+    CHILD_TEXT TextBox 17: Contemporaneous
+    CHILD_TEXT TextBox 18: Evaluates immediate rainfall impact on yield.
+=== SLIDE 33 ===
+  TEXT TextBox 2: 33
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Explainability in Crop Yield Models
+=== SLIDE 34 ===
+  GROUP Group 2 (0, 0, 7858125, 10287000)
+    CHILD_TEXT Freeform 3: 
+  GROUP Group 4 (666750, 666750, 6545058, 8953500)
+    CHILD_TEXT Freeform 5: 
+  TEXT TextBox 6: Rainfall Lag Contributions
+  TEXT TextBox 7: This section visually represents how different rainfall lags contribute to yield predictions, using SHAP-based feature attribution to highlight the importance of temporal rainfall effects in crop forecasting.
+=== SLIDE 35 ===
+  TEXT TextBox 2: 35
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Expected Research Contributions
+=== SLIDE 36 ===
+  GROUP Group 2 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  GROUP Group 5 (2105025, 1562100, 9763125, 6318250)
+    CHILD_TEXT TextBox 6: The study aims to provide: // A systematic representation of rainfall-yield temporal lag structures. // An empirical evaluation of the impact of lag-aware precipitation features on yield prediction. // A comparative analysis of crop-specific lag responses to weather variations. // An explainable characterization of critical rainfall exposure windows influencing crop yield. // A reproducible experimental framework for climate-aware crop forecasting, enabling further research and application within agricultural practices in Kerala.
+    CHILD_TEXT TextBox 7: Expected contributions to agricultural forecasting
+  TEXT Freeform 8: 
+=== SLIDE 37 ===
+  TEXT TextBox 2: 37
+  GROUP Group 3 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 4: 
+    CHILD_TEXT TextBox 5: 
+  TEXT Freeform 6: 
+  TEXT TextBox 7: Limitations and Threats
+=== SLIDE 38 ===
+  GROUP Group 2 (666750, 666750, 16954500, 8953500)
+    CHILD_TEXT Freeform 3: 
+    CHILD_TEXT TextBox 4: 
+  GROUP Group 5 (2105025, 1562100, 9763125, 6127750)
+    CHILD_TEXT TextBox 6: Data availability and completeness may hinder accurate predictions. // Spatial aggregation across districts can obscure localized variations. // Confounding agricultural factors such as crop management practices influence outcomes. // Irrigation effects complicate the understanding of rainfall impacts. // Variability in fertilizer and input usage can skew results. // Extreme weather events may introduce unpredictability in yield responses. // Non-stationarity under climate change raises questions about model stability. // Potential temporal leakage between training and test datasets must be mitigated.
+    CHILD_TEXT TextBox 7: Key Limitations and Threats to Validity
+  TEXT Freeform 8: 
+=== SLIDE 39 ===
+  TEXT TextBox 2: Phase 1: Data Acquisition
+  TEXT TextBox 3: In this phase, researchers will gather extensive historical data on rainfall, temperature, and crop yields across various districts in Kerala, ensuring comprehensive coverage for analysis.
+  TEXT TextBox 4: Phase 2: Preprocessing
+  TEXT TextBox 5: The collected data will undergo rigorous cleaning and preprocessing to address missing values, standardize formats, and ensure alignment with the temporal resolution of interest.
+  TEXT TextBox 6: Phase 3: Temporal Feature Construction
+  TEXT TextBox 7: Researchers will construct lagged rainfall features utilizing historical data, creating a structured temporal feature space that captures delayed precipitation effects for improved yield modeling.
+  TEXT AutoShape 8: 
+  GROUP Group 9 (669118, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 10: 
+  GROUP Group 11 (6421966, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 12: 
+  GROUP Group 13 (12172950, 4248150, 323850, 323850)
+    CHILD_TEXT Freeform 14: 
+  TEXT TextBox 15: Research Timeline
+=== SLIDE 40 ===
+  GROUP Group 2 (0, 0, 7858125, 10287000)
+    CHILD_TEXT Freeform 3: 
+  GROUP Group 4 (1052512, 666750, 5753100, 8953500)
+    CHILD_TEXT Freeform 5: 
+  TEXT TextBox 6: Integrating insights for sustainable agriculture
+  TEXT TextBox 7: Research Framework
+  TEXT Freeform 8: 

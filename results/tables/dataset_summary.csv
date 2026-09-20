@@ -1,0 +1,13 @@
+Metric,Value
+Total Raw Observations,10279
+Total Columns,15
+Start Year,1990
+End Year,2017
+Number of Unique Years,28
+Number of Unique States,20
+Number of Unique District Names,381
+Number of Unique District Codes,384
+Exact Row Duplicates,0
+Missing Target Observations,0
+Missing Rainfall Observations,0
+Non-Positive Target Count,0

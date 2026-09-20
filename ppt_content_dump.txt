@@ -1,0 +1,196 @@
+=== SLIDE 1 ===
+  [Shape 2: TextBox 6 (left=666750, top=9011285, w=6886575, h=608965)]:
+Sankar S Pillai, Martin Wills
+  [Shape 3: TextBox 7 (left=675380, top=889343, w=9754495, h=4107180)]:
+Rainfall-Lag-Aware Crop Yield Forecasting
+=== SLIDE 2 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+2
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Research Context
+=== SLIDE 3 ===
+=== SLIDE 4 ===
+=== SLIDE 5 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+5
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Problem Formulation
+=== SLIDE 6 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+6
+=== SLIDE 7 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+7
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Existing Approaches Overview
+=== SLIDE 8 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+8
+  [Shape 2: TextBox 6 (left=666750, top=7816850, w=8324850, h=1803400)]:
+This page examines the strengths and limitations of conventional statistical models versus standard machine-learning approaches in crop yield forecasting, highlighting their different capabilities regarding temporal lag.
+=== SLIDE 9 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+9
+  [Shape 2: TextBox 6 (left=666750, top=7893050, w=8324850, h=1727200)]:
+This section outlines the distinctions between time-series approaches and climate-informed models, emphasizing their methodologies, strengths, and limitations in addressing rainfall-lag-aware crop yield forecasting.
+=== SLIDE 10 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+10
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=2613025)]:
+Research Gap: Temporal Lag Structure
+=== SLIDE 11 ===
+=== SLIDE 12 ===
+=== SLIDE 13 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+13
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Research Questions
+=== SLIDE 14 ===
+  [Shape 1: TextBox 5 (left=666750, top=809625, w=5448300, h=3089279)]:
+Research Questions Overview
+  [Shape 4: TextBox 10 (left=9296400, top=4250055, w=864987, h=428625)]:
+02
+  [Shape 5: TextBox 11 (left=9296400, top=1553369, w=864987, h=428625)]:
+01
+  [Shape 6: TextBox 12 (left=9296400, top=6936105, w=864987, h=428625)]:
+03
+=== SLIDE 15 ===
+  [Shape 1: TextBox 5 (left=666750, top=809625, w=5448300, h=2079629)]:
+Optimal Lag Structures
+  [Shape 4: TextBox 10 (left=9296400, top=4250055, w=864987, h=428625)]:
+02
+  [Shape 5: TextBox 11 (left=9296400, top=1553369, w=864987, h=428625)]:
+01
+  [Shape 6: TextBox 12 (left=9296400, top=6936105, w=864987, h=428625)]:
+03
+=== SLIDE 16 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+16
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Research Hypotheses
+=== SLIDE 17 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+17
+=== SLIDE 18 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+18
+=== SLIDE 19 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+19
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Proposed Methodology
+=== SLIDE 20 ===
+  [Shape 0: TextBox 2 (left=669118, top=3367087, w=4007657, h=390525)]:
+Data Acquisition
+  [Shape 1: TextBox 3 (left=669118, top=5105400, w=4007657, h=2101850)]:
+This stage involves gathering comprehensive datasets, including historical rainfall and crop yield information, to build a robust foundation for subsequent analyses and model development.
+  [Shape 2: TextBox 4 (left=4981575, top=3367087, w=4010025, h=390525)]:
+Data Cleaning
+  [Shape 3: TextBox 5 (left=13616434, top=3323432, w=4003106, h=390525)]:
+Lag Feature Construction
+  [Shape 4: TextBox 6 (left=4981575, top=5105400, w=4010025, h=2101850)]:
+In this phase, the collected data will be meticulously reviewed and cleaned to remove inconsistencies, missing values, and outliers, ensuring high-quality data for accurate forecasting.
+  [Shape 5: TextBox 7 (left=13611225, top=5105400, w=4003106, h=2101850)]:
+This crucial step involves generating lagged rainfall features, allowing us to capture the delayed effects of precipitation on crop yield, thereby enhancing predictive model performance.
+  [Shape 6: TextBox 8 (left=9296400, top=3367087, w=3807849, h=390525)]:
+Temporal Alignment
+  [Shape 7: TextBox 9 (left=9297189, top=5105400, w=4009236, h=1749425)]:
+Here, we will align the temporal datasets, synchronizing rainfall and crop yield data according to specific time intervals, thus establishing a coherent time-series for analysis.
+  [Shape 13: TextBox 19 (left=666750, top=809625, w=16954500, h=1069976)]:
+Research Pipeline
+=== SLIDE 21 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+21
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Dataset Construction Overview
+=== SLIDE 22 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+22
+=== SLIDE 23 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+23
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Temporal Lag Construction
+=== SLIDE 24 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+24
+=== SLIDE 25 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+25
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=2613025)]:
+Analytical and Machine Learning Framework
+=== SLIDE 26 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+26
+=== SLIDE 27 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+27
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Experimental Design Overview
+=== SLIDE 28 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+28
+=== SLIDE 29 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+29
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Baseline and Proposed Models
+=== SLIDE 30 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+30
+=== SLIDE 31 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+31
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Ablation Study Overview
+=== SLIDE 32 ===
+  [Shape 1: TextBox 5 (left=666750, top=809625, w=5448300, h=5108579)]:
+Experiments Isolating Temporal Lag Contribution
+  [Shape 4: TextBox 10 (left=9296400, top=4250055, w=864987, h=428625)]:
+02
+  [Shape 5: TextBox 11 (left=9296400, top=1553369, w=864987, h=428625)]:
+01
+  [Shape 6: TextBox 12 (left=9296400, top=6936105, w=864987, h=428625)]:
+03
+=== SLIDE 33 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+33
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=2613025)]:
+Explainability in Crop Yield Models
+=== SLIDE 34 ===
+  [Shape 2: TextBox 6 (left=9296400, top=733425, w=8324850, h=2263775)]:
+Rainfall Lag Contributions
+  [Shape 3: TextBox 7 (left=9296400, top=7854950, w=8324850, h=1765300)]:
+This section visually represents how different rainfall lags contribute to yield predictions, using SHAP-based feature attribution to highlight the importance of temporal rainfall effects in crop forecasting.
+=== SLIDE 35 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+35
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Expected Research Contributions
+=== SLIDE 36 ===
+=== SLIDE 37 ===
+  [Shape 0: TextBox 2 (left=17259300, top=9220200, w=152400, h=190500)]:
+37
+  [Shape 3: TextBox 7 (left=1800225, top=1476375, w=12944475, h=1298575)]:
+Limitations and Threats
+=== SLIDE 38 ===
+=== SLIDE 39 ===
+  [Shape 0: TextBox 2 (left=669118, top=3367087, w=5445932, h=390525)]:
+Phase 1: Data Acquisition
+  [Shape 1: TextBox 3 (left=669118, top=5105400, w=5445932, h=1397000)]:
+In this phase, researchers will gather extensive historical data on rainfall, temperature, and crop yields across various districts in Kerala, ensuring comprehensive coverage for analysis.
+  [Shape 2: TextBox 4 (left=6419850, top=3367087, w=5446184, h=390525)]:
+Phase 2: Preprocessing
+  [Shape 3: TextBox 5 (left=6421966, top=5105400, w=5446184, h=1397000)]:
+The collected data will undergo rigorous cleaning and preprocessing to address missing values, standardize formats, and ensure alignment with the temporal resolution of interest.
+  [Shape 4: TextBox 6 (left=12172950, top=2967037, w=5448300, h=790575)]:
+Phase 3: Temporal Feature Construction
+  [Shape 5: TextBox 7 (left=12172950, top=5105400, w=5448300, h=1397000)]:
+Researchers will construct lagged rainfall features utilizing historical data, creating a structured temporal feature space that captures delayed precipitation effects for improved yield modeling.
+  [Shape 10: TextBox 15 (left=666750, top=809625, w=16954500, h=1069976)]:
+Research Timeline
+=== SLIDE 40 ===
+  [Shape 2: TextBox 6 (left=9296400, top=8392160, w=8324850, h=1228090)]:
+Integrating insights for sustainable agriculture
+  [Shape 3: TextBox 7 (left=9303759, top=942975, w=8317491, h=3894609)]:
+Research Framework

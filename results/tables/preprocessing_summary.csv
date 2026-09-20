@@ -1,0 +1,5 @@
+step,reason,rows_removed,remaining_rows
+Raw Ingestion,Initial raw observations loaded from source CSV,0,10279
+Deduplication,Exact row duplicate removal,0,10279
+Target Validation,Removal of non-positive or missing rice yield observations,0,10279
+Rainfall Validation,Removal of negative or missing aggregate rainfall records,0,10279

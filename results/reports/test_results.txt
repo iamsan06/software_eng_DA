@@ -1,0 +1,34 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.12.4, pytest-9.1.1, pluggy-1.6.0 -- C:\Users\sanka\OneDrive\Desktop\SE DA\.venv\Scripts\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\sanka\OneDrive\Desktop\SE DA
+configfile: pytest.ini
+testpaths: tests
+collecting ... collected 24 items
+
+tests/test_crop_calendar.py::test_agro_climatic_zones_completeness PASSED [  4%]
+tests/test_crop_calendar.py::test_state_to_zone_mapping PASSED           [  8%]
+tests/test_crop_calendar.py::test_get_crop_reference_week PASSED         [ 12%]
+tests/test_crop_calendar.py::test_get_pre_harvest_lag_weeks_causality PASSED [ 16%]
+tests/test_crop_calendar.py::test_build_crop_calendar_dataframe PASSED   [ 20%]
+tests/test_data_loader.py::test_get_raw_data_path PASSED                 [ 25%]
+tests/test_data_loader.py::test_load_raw_data_schema PASSED              [ 29%]
+tests/test_data_loader.py::test_load_raw_data_row_count PASSED           [ 33%]
+tests/test_evaluation.py::test_calculate_metrics_values PASSED           [ 37%]
+tests/test_evaluation.py::test_build_prediction_dataframe PASSED         [ 41%]
+tests/test_evaluation.py::test_compute_group_metrics PASSED              [ 45%]
+tests/test_lag_construction.py::test_extract_16week_lag_sequence PASSED  [ 50%]
+tests/test_lag_construction.py::test_lag_aware_tabular_pipeline PASSED   [ 54%]
+tests/test_preprocessing.py::test_preprocess_data_execution PASSED       [ 58%]
+tests/test_preprocessing.py::test_stable_geographic_id_uniqueness PASSED [ 62%]
+tests/test_preprocessing.py::test_audit_table_completeness PASSED        [ 66%]
+tests/test_sequence_models.py::test_sequence_dataset_and_models PASSED   [ 70%]
+tests/test_splitting.py::test_chronological_splitting_properties PASSED  [ 75%]
+tests/test_splitting.py::test_split_summary_structure PASSED             [ 79%]
+tests/test_validation.py::test_validate_raw_schema PASSED                [ 83%]
+tests/test_validation.py::test_validate_non_negative_yield_and_rainfall PASSED [ 87%]
+tests/test_validation.py::test_validate_key_integrity_raw PASSED         [ 91%]
+tests/test_validation.py::test_validate_temporal_split_order PASSED      [ 95%]
+tests/test_validation.py::test_validate_feature_exclusion PASSED         [100%]
+
+============================= 24 passed in 17.82s =============================

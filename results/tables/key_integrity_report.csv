@@ -1,0 +1,6 @@
+Key_Combination,Duplicates,Is_Globally_Unique
+Exact Full Row,0,True
+District + Year,76,False
+State + District + Year,0,True
+Dist.Code + Year,0,True
+State + Dist.Code + Year,0,True

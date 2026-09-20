@@ -1,0 +1,410 @@
+=== SLIDE 1 ===
+  Group "Group 2" pos=(0,-12700,11201400,10299700):
+    Child "Freeform 3" pos=(0,0,963348,885799): [] info=[]
+  Group "Group 4" pos=(11868150,666750,5753100,8953500):
+    Child "Freeform 5" pos=(0,0,814724,1267949): [] info=[]
+  TextShape "TextBox 6" pos=(666750,9011285,6886575,608965): ['Sankar S Pillai, Martin Wills'] info=[(None, None, None)]
+  TextShape "TextBox 7" pos=(675380,889343,9754495,4107180): ['Rainfall-Lag-Aware Crop Yield Forecasting'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(8947742,7656091,2112604,1859092): [] info=[]
+=== SLIDE 2 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['2'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Research Context'] info=[(None, None, None)]
+=== SLIDE 3 ===
+  Group "Group 2" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 3" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 5" pos=(2105025,1562100,9763125,6718300):
+    Child "TextBox 6" pos=(0,1206500,13017500,7751233): ["Kerala's agriculture is heavily reliant on seasonal rainfall, making it vulnerable to climatic variability. Key points include:", 'Dependence on Monsoons: The southwest monsoon is critical for crop growth.', 'Interannual Variability: Fluctuations in rainfall patterns can disrupt planting schedules.', 'Crop Sensitivity: Varieties respond differently to moisture levels, impacting yield.', 'Decision-Making Needs: Accurate forecasting is essential for planning and resource allocation.', "Understanding these factors is crucial for developing effective rainfall-lag-aware yield forecasting models tailored to the region's specific needs."] info=[(None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None)]
+    Child "TextBox 7" pos=(0,0,13017500,660400): ["Understanding Kerala's climate and agriculture"] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 4 ===
+  Group "Group 2" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 3" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 5" pos=(2105025,1562100,9763125,5251450):
+    Child "TextBox 6" pos=(0,1206500,13017500,5795433): ['Timely forecasts enable proactive measures for resource allocation.', 'Accurate predictions enhance food security and economic stability.', 'Supports farmers in optimizing planting and harvesting schedules.', 'Facilitates effective risk management against adverse weather events.', 'Empowers stakeholders to make informed decisions regarding crop selection.', 'Contributes to sustainable agricultural practices by minimizing waste.', 'Enhances overall productivity and profitability of farming operations.'] info=[(None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None)]
+    Child "TextBox 7" pos=(0,0,13017500,660400): ['Key Insights into Agricultural Yield Forecasting'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 5 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['5'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Problem Formulation'] info=[(None, None, None)]
+=== SLIDE 6 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['6'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,13249275,2067009):
+    Child "TextBox 7" pos=(0,-85725,17665700,1702858): ['Causal Chain Analysis'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17665700,558800): ['Temporal Lag Effects on Crop Yield'] info=[(None, None, None)]
+  Group "Group 9" pos=(1800225,5143500,4308497,2959100):
+    Child "TextBox 10" pos=(0,9525,5744662,523875): ['Input'] info=[(None, None, None)]
+    Child "TextBox 11" pos=(0,1079500,5744662,2865967): ['The model inputs historical rainfall and meteorological data to understand how previous precipitation affects crop yields, emphasizing the significance of data accuracy and relevance.'] info=[(None, None, None)]
+  Group "Group 12" pos=(7291388,5143500,4010025,2959100):
+    Child "TextBox 13" pos=(0,9525,5346700,523875): ['Temporal Exposure'] info=[(None, None, None)]
+    Child "TextBox 14" pos=(0,1079500,5346700,2865967): ['Rainfall exposure over multiple preceding time intervals is crucial in capturing delayed physiological responses, allowing for a more comprehensive understanding of crop yield dynamics.'] info=[(None, None, None)]
+  Group "Group 15" pos=(12172950,5143500,4010025,3254375):
+    Child "TextBox 16" pos=(0,9525,5346700,523875): ['Crop Response'] info=[(None, None, None)]
+    Child "TextBox 17" pos=(0,1079500,5346700,3259667): ['The physiological and agronomic reactions of crops to varying rainfall lag structures illustrate the complexity of relationships influencing overall yield outcomes, necessitating robust analysis for predictions.'] info=[(None, None, None)]
+  TextShape "Freeform 18" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 7 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['7'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Existing Approaches Overview'] info=[(None, None, None)]
+=== SLIDE 8 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['8'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,9763125,4219575):
+    Child "TextBox 4" pos=(0,66675,13017500,4526492): ['Comparison of Statistical and Machine Learning Models'] info=[(None, None, None)]
+    Child "TextBox 5" pos=(0,5067300,13017500,558800): ['Evaluating Approaches to Crop Yield Forecasting'] info=[(None, None, None)]
+  TextShape "TextBox 6" pos=(666750,7816850,8324850,1803400): ['This page examines the strengths and limitations of conventional statistical models versus standard machine-learning approaches in crop yield forecasting, highlighting their different capabilities regarding temporal lag.'] info=[(None, None, None)]
+  Group "Group 7" pos=(12172950,5316715,5448300,4303535):
+    Child "Freeform 8" pos=(0,0,1175568,928565): [] info=[]
+  Group "Group 9" pos=(12172950,666750,5448300,4345165):
+    Child "Freeform 10" pos=(0,0,1484382,1183835): [] info=[]
+=== SLIDE 9 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['9'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,9763125,3105150):
+    Child "TextBox 4" pos=(0,66675,13017500,3040592): ['Comparison of Temporal Approaches'] info=[(None, None, None)]
+    Child "TextBox 5" pos=(0,3581400,13017500,558800): ['Examining Time-Series and Climate-Informed Models'] info=[(None, None, None)]
+  TextShape "TextBox 6" pos=(666750,7893050,8324850,1727200): ['This section outlines the distinctions between time-series approaches and climate-informed models, emphasizing their methodologies, strengths, and limitations in addressing rainfall-lag-aware crop yield forecasting.'] info=[(None, None, None)]
+  Group "Group 7" pos=(12172950,5316715,5448300,4303535):
+    Child "Freeform 8" pos=(0,0,1175568,928565): [] info=[]
+  Group "Group 9" pos=(12172950,666750,5448300,4345165):
+    Child "Freeform 10" pos=(0,0,1484382,1183835): [] info=[]
+=== SLIDE 10 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['10'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,2613025): ['Research Gap: Temporal Lag Structure'] info=[(None, None, None)]
+=== SLIDE 11 ===
+  Group "Group 2" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 3" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 5" pos=(2105025,1562100,9763125,5441950):
+    Child "TextBox 6" pos=(0,1206500,13017500,6049433): ["Existing crop-yield prediction approaches frequently represent precipitation using contemporaneous or aggregated features. This methodology potentially obscures delayed and crop-specific rainfall responses. The contributions of rainfall at various time lags—such as t-1, t-2, t-4, and t-8—remain largely unknown. This lack of representation can lead to inaccurate yield forecasts, as it does not account for the complex physiological and agronomic responses of crops to delayed precipitation. A more nuanced approach that incorporates lagged rainfall data is crucial for improving the accuracy of yield predictions in Kerala's agricultural landscape."] info=[(None, None, None)]
+    Child "TextBox 7" pos=(0,0,13017500,660400): ['Understanding the limitations of existing models'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 12 ===
+  Group "Group 2" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 3" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 5" pos=(2105025,1562100,9763125,5689600):
+    Child "TextBox 6" pos=(0,1206500,13017500,6379633): ['The research question addresses how lagged rainfall exposures contribute to yield prediction. This involves:', 'Analyzing the effects of rainfall at various lag times (t-1, t-2, t-3, etc.)', 'Determining if these lagged variables provide significant predictive power', 'Identifying crop-specific responses to delayed rainfall', 'Evaluating the influence of interannual climatic variability on lag effects', 'Understanding these aspects will enhance the accuracy of crop yield forecasts and offer actionable insights for agricultural planning in Kerala’s dynamic climate.'] info=[(None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None)]
+    Child "TextBox 7" pos=(0,0,13017500,660400): ['Exploring the impact of rainfall lag'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 13 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['13'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Research Questions'] info=[(None, None, None)]
+=== SLIDE 14 ===
+  Group "Group 2" pos=(0,0,7858125,10287000):
+    Child "Freeform 3" pos=(0,0,2069630,2709333): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,2069630,2747433): [] info=[]
+  TextShape "TextBox 5" pos=(666750,809625,5448300,3089279): ['Research Questions Overview'] info=[(None, None, None)]
+  TextShape "Freeform 6" pos=(708153,7606302,2112604,1859092): [] info=[]
+  Group "Group 7" pos=(10734675,6944836,6886575,1780223):
+    Child "TextBox 8" pos=(0,0,9182100,660400): ['Informative Lags'] info=[(None, None, None)]
+    Child "TextBox 9" pos=(0,1304714,9182100,1068917): ['Identifying specific lags optimizes forecasting accuracy effectively.'] info=[(None, None, None)]
+  TextShape "TextBox 10" pos=(9296400,4250055,864987,428625): ['02'] info=[(None, None, None)]
+  TextShape "TextBox 11" pos=(9296400,1553369,864987,428625): ['01'] info=[(None, None, None)]
+  TextShape "TextBox 12" pos=(9296400,6936105,864987,428625): ['03'] info=[(None, None, None)]
+  Group "Group 13" pos=(10734675,4248150,6886575,1780223):
+    Child "TextBox 14" pos=(0,0,9182100,660400): ['Contemporaneous'] info=[(None, None, None)]
+    Child "TextBox 15" pos=(0,1304714,9182100,1068917): ['Contemporaneous features may overlook critical rainfall impacts.'] info=[(None, None, None)]
+  Group "Group 16" pos=(10734675,1562100,6886575,1780223):
+    Child "TextBox 17" pos=(0,0,9182100,660400): ['Lag-Aware'] info=[(None, None, None)]
+    Child "TextBox 18" pos=(0,1304714,9182100,1068917): ['Lag-aware features enhance predictive capabilities significantly.'] info=[(None, None, None)]
+=== SLIDE 15 ===
+  Group "Group 2" pos=(0,0,7858125,10287000):
+    Child "Freeform 3" pos=(0,0,2069630,2709333): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,2069630,2747433): [] info=[]
+  TextShape "TextBox 5" pos=(666750,809625,5448300,2079629): ['Optimal Lag Structures'] info=[(None, None, None)]
+  TextShape "Freeform 6" pos=(708153,7606302,2112604,1859092): [] info=[]
+  Group "Group 7" pos=(10734675,6944836,6886575,1780223):
+    Child "TextBox 8" pos=(0,0,9182100,660400): ['Explainability'] info=[(None, None, None)]
+    Child "TextBox 9" pos=(0,1304714,9182100,1068917): ['Machine learning can clarify rainfall-yield relationships.'] info=[(None, None, None)]
+  TextShape "TextBox 10" pos=(9296400,4250055,864987,428625): ['02'] info=[(None, None, None)]
+  TextShape "TextBox 11" pos=(9296400,1553369,864987,428625): ['01'] info=[(None, None, None)]
+  TextShape "TextBox 12" pos=(9296400,6936105,864987,428625): ['03'] info=[(None, None, None)]
+  Group "Group 13" pos=(10734675,4248150,6886575,1780223):
+    Child "TextBox 14" pos=(0,0,9182100,660400): ['Climate'] info=[(None, None, None)]
+    Child "TextBox 15" pos=(0,1304714,9182100,1068917): ['Climatic conditions influence lag contributions to yield.'] info=[(None, None, None)]
+  Group "Group 16" pos=(10734675,1562100,6886575,1370648):
+    Child "TextBox 17" pos=(0,0,9182100,660400): ['Crops'] info=[(None, None, None)]
+    Child "TextBox 18" pos=(0,1304714,9182100,522817): ['Different crops respond uniquely to rainfall lags.'] info=[(None, None, None)]
+=== SLIDE 16 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['16'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Research Hypotheses'] info=[(None, None, None)]
+=== SLIDE 17 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['17'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,12944475,3581400):
+    Child "TextBox 7" pos=(0,-85725,17259300,1702858): ['Lagged Rainfall Features'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17259300,558800): ['Improving Crop Yield Prediction Accuracy'] info=[(None, None, None)]
+    Child "TextBox 9" pos=(0,3069166,13512134,1706034): ['Incorporating lagged rainfall features into models is expected to reduce prediction errors by capturing the delayed effects of precipitation, enhancing the accuracy of crop yield forecasts.'] info=[(None, None, None)]
+  TextShape "Freeform 10" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 18 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['18'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,12944475,3581400):
+    Child "TextBox 7" pos=(0,-85725,17259300,1702858): ['Rainfall Contributions'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17259300,558800): ['Crop-Specific Temporal Lag Structures'] info=[(None, None, None)]
+    Child "TextBox 9" pos=(0,3069166,13512134,1706034): ['Understanding the unique temporal lag structures of rainfall can enhance crop yield prediction, offering tailored insights that improve model robustness under varying climatic conditions in Kerala.'] info=[(None, None, None)]
+  TextShape "Freeform 10" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 19 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['19'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Proposed Methodology'] info=[(None, None, None)]
+=== SLIDE 20 ===
+  TextShape "TextBox 2" pos=(669118,3367087,4007657,390525): ['Data Acquisition'] info=[(None, None, None)]
+  TextShape "TextBox 3" pos=(669118,5105400,4007657,2101850): ['This stage involves gathering comprehensive datasets, including historical rainfall and crop yield information, to build a robust foundation for subsequent analyses and model development.'] info=[(None, None, None)]
+  TextShape "TextBox 4" pos=(4981575,3367087,4010025,390525): ['Data Cleaning'] info=[(None, None, None)]
+  TextShape "TextBox 5" pos=(13616434,3323432,4003106,390525): ['Lag Feature Construction'] info=[(None, None, None)]
+  TextShape "TextBox 6" pos=(4981575,5105400,4010025,2101850): ['In this phase, the collected data will be meticulously reviewed and cleaned to remove inconsistencies, missing values, and outliers, ensuring high-quality data for accurate forecasting.'] info=[(None, None, None)]
+  TextShape "TextBox 7" pos=(13611225,5105400,4003106,2101850): ['This crucial step involves generating lagged rainfall features, allowing us to capture the delayed effects of precipitation on crop yield, thereby enhancing predictive model performance.'] info=[(None, None, None)]
+  TextShape "TextBox 8" pos=(9296400,3367087,3807849,390525): ['Temporal Alignment'] info=[(None, None, None)]
+  TextShape "TextBox 9" pos=(9297189,5105400,4009236,1749425): ['Here, we will align the temporal datasets, synchronizing rainfall and crop yield data according to specific time intervals, thus establishing a coherent time-series for analysis.'] info=[(None, None, None)]
+  TextShape "AutoShape 10" pos=(992968,4410075,17607376,0): [] info=[]
+  Group "Group 11" pos=(669118,4248150,323850,323850):
+    Child "Freeform 12" pos=(0,0,6350000,6350000): [] info=[]
+  Group "Group 13" pos=(4983154,4248150,323850,323850):
+    Child "Freeform 14" pos=(0,0,6350000,6350000): [] info=[]
+  Group "Group 15" pos=(9297189,4248150,323850,323850):
+    Child "Freeform 16" pos=(0,0,6350000,6350000): [] info=[]
+  Group "Group 17" pos=(13611225,4248150,323850,323850):
+    Child "Freeform 18" pos=(0,0,6350000,6350000): [] info=[]
+  TextShape "TextBox 19" pos=(666750,809625,16954500,1069976): ['Research Pipeline'] info=[(None, None, None)]
+=== SLIDE 21 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['21'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Dataset Construction Overview'] info=[(None, None, None)]
+=== SLIDE 22 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['22'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,13249275,2067009):
+    Child "TextBox 7" pos=(0,-85725,17665700,1702858): ['Dataset Schema'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17665700,558800): ['Key Variables for Analysis'] info=[(None, None, None)]
+  Group "Group 9" pos=(1800225,5143500,4308497,2606675):
+    Child "TextBox 10" pos=(0,9525,5744662,523875): ['Rainfall'] info=[(None, None, None)]
+    Child "TextBox 11" pos=(0,1079500,5744662,2396067): ['Rainfall is measured as a continuous variable, collected at daily or monthly temporal resolutions, serving as a primary predictor of crop yield in the analysis.'] info=[(None, None, None)]
+  Group "Group 12" pos=(7291388,5143500,4010025,2578100):
+    Child "TextBox 13" pos=(0,9525,5346700,523875): ['Temperature'] info=[(None, None, None)]
+    Child "TextBox 14" pos=(0,1079500,5346700,2357967): ['Temperature data is also treated as a continuous variable, collected at daily or monthly resolutions, influencing crop growth and yield outcomes alongside rainfall metrics.'] info=[(None, None, None)]
+  Group "Group 15" pos=(12172950,5143500,4010025,2930525):
+    Child "TextBox 16" pos=(0,9525,5346700,523875): ['Crop Yield'] info=[(None, None, None)]
+    Child "TextBox 17" pos=(0,1079500,5346700,2827867): ['Crop yield is recorded as a continuous variable, tracked on a seasonal or annual basis, representing the target outcome for the machine learning models used in forecasting.'] info=[(None, None, None)]
+  TextShape "Freeform 18" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 23 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['23'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Temporal Lag Construction'] info=[(None, None, None)]
+=== SLIDE 24 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['24'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,12944475,2067009):
+    Child "TextBox 7" pos=(0,-85725,17259300,1702858): ['Rainfall Lag Dependency'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17259300,558800): ['Understanding Yield Relationships with Rainfall'] info=[(None, None, None)]
+  Group "Group 9" pos=(1800225,5143500,5753100,2197100):
+    Child "TextBox 10" pos=(0,9525,7670800,523875): ['Yield Function'] info=[(None, None, None)]
+    Child "TextBox 11" pos=(0,1079500,7670800,1849967): ['The function Yield_t = f(R(t-1), R(t-2), ..., R(t-k) illustrates how yield is influenced by precipitation across multiple lags, reflecting delayed crop responses to rainfall.'] info=[(None, None, None)]
+  Group "Group 12" pos=(9296400,5143500,5448300,2197100):
+    Child "TextBox 13" pos=(0,9525,7264400,523875): ['Rain Lag Matrix'] info=[(None, None, None)]
+    Child "TextBox 14" pos=(0,1079500,7264400,1849967): ['The notation X_rain = [R(t-1), R(t-2), ..., R(t-k)] organizes historical rainfall data into a structured matrix, aiding in the analysis of temporal effects on crop yield.'] info=[(None, None, None)]
+  TextShape "Freeform 15" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 25 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['25'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,2613025): ['Analytical and Machine Learning Framework'] info=[(None, None, None)]
+=== SLIDE 26 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['26'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,12944475,2067009):
+    Child "TextBox 7" pos=(0,-85725,17259300,1702858): ['Candidate Model Families'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17259300,558800): ['Approaches for Effective Crop Yield Forecasting'] info=[(None, None, None)]
+  Group "Group 9" pos=(1800225,5143500,5753100,2254250):
+    Child "TextBox 10" pos=(0,9525,7670800,523875): ['Baseline Models'] info=[(None, None, None)]
+    Child "TextBox 11" pos=(0,1079500,7670800,1926167): ['Baseline models such as Linear Regression and Random Forest provide foundational approaches, focusing on simplicity and interpretability while establishing initial benchmarks for yield predictions.'] info=[(None, None, None)]
+  Group "Group 12" pos=(9296400,5143500,5448300,2225675):
+    Child "TextBox 13" pos=(0,9525,7264400,523875): ['Nonlinear Models'] info=[(None, None, None)]
+    Child "TextBox 14" pos=(0,1079500,7264400,1888067): ['Nonlinear machine learning models like XGBoost leverage complex data patterns, allowing for better performance in capturing intricate relationships between rainfall data and crop yields.'] info=[(None, None, None)]
+  TextShape "Freeform 15" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 27 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['27'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Experimental Design Overview'] info=[(None, None, None)]
+=== SLIDE 28 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['28'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,13249275,2067009):
+    Child "TextBox 7" pos=(0,-85725,17665700,1702858): ['Independent Variables'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17665700,558800): ['A Comprehensive Overview of Yield Factors'] info=[(None, None, None)]
+  Group "Group 9" pos=(1800225,5143500,4308497,2901950):
+    Child "TextBox 10" pos=(0,9525,5744662,523875): ['Rainfall Representation'] info=[(None, None, None)]
+    Child "TextBox 11" pos=(0,1079500,5744662,2789767): ['The study considers multiple rainfall representations, including contemporaneous, cumulative, and lagged features, to assess their impact on crop yield prediction accuracy throughout the growing season.'] info=[(None, None, None)]
+  Group "Group 12" pos=(7291388,5143500,4010025,2901950):
+    Child "TextBox 13" pos=(0,9525,5346700,523875): ['Dependent Variable'] info=[(None, None, None)]
+    Child "TextBox 14" pos=(0,1079500,5346700,2789767): ['Crop yield serves as the primary dependent variable, with measurements taken seasonally and annually, reflecting the overall agricultural productivity influenced by various climatic factors in Kerala.'] info=[(None, None, None)]
+  Group "Group 15" pos=(12172950,5143500,4010025,2901950):
+    Child "TextBox 16" pos=(0,9525,5346700,523875): ['Control and Baseline'] info=[(None, None, None)]
+    Child "TextBox 17" pos=(0,1079500,5346700,2789767): ['The control model utilizes non-lagged climatic features, allowing for a comparative analysis against lag-aware models to evaluate the effectiveness of incorporating rainfall lag structures in predictions.'] info=[(None, None, None)]
+  TextShape "Freeform 18" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 29 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['29'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Baseline and Proposed Models'] info=[(None, None, None)]
+=== SLIDE 30 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['30'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 6" pos=(1800225,1562100,12944475,2067009):
+    Child "TextBox 7" pos=(0,-85725,17259300,1702858): ['Baseline vs. Proposed'] info=[(None, None, None)]
+    Child "TextBox 8" pos=(0,2197212,17259300,558800): ['Comparing predictive modeling frameworks'] info=[(None, None, None)]
+  Group "Group 9" pos=(1800225,5143500,5753100,2197100):
+    Child "TextBox 10" pos=(0,9525,7670800,523875): ['Baseline Representation'] info=[(None, None, None)]
+    Child "TextBox 11" pos=(0,1079500,7670800,1849967): ['The baseline model is formulated as Yield_t = f(R_t, T_t, ...), emphasizing contemporaneous rainfall and temperature without accounting for temporal lag effects on yield prediction.'] info=[(None, None, None)]
+  Group "Group 12" pos=(9296400,5143500,5448300,2197100):
+    Child "TextBox 13" pos=(0,9525,7264400,523875): ['Proposed Representation'] info=[(None, None, None)]
+    Child "TextBox 14" pos=(0,1079500,7264400,1849967): ['The proposed model expands to Yield_t = f(R_t, R(t-1), R(t-2), ..., R(t-k), T_t, ...), integrating multiple rainfall lags to enhance predictive accuracy and better capture delayed responses.'] info=[(None, None, None)]
+  TextShape "Freeform 15" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 31 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['31'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Ablation Study Overview'] info=[(None, None, None)]
+=== SLIDE 32 ===
+  Group "Group 2" pos=(0,0,7858125,10287000):
+    Child "Freeform 3" pos=(0,0,2069630,2709333): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,2069630,2747433): [] info=[]
+  TextShape "TextBox 5" pos=(666750,809625,5448300,5108579): ['Experiments Isolating Temporal Lag Contribution'] info=[(None, None, None)]
+  TextShape "Freeform 6" pos=(708153,7606302,2112604,1859092): [] info=[]
+  Group "Group 7" pos=(10734675,6944836,6886575,1370648):
+    Child "TextBox 8" pos=(0,0,9182100,660400): ['Lagged'] info=[(None, None, None)]
+    Child "TextBox 9" pos=(0,1304714,9182100,522817): ['Analyzes short and long-term rainfall influences.'] info=[(None, None, None)]
+  TextShape "TextBox 10" pos=(9296400,4250055,864987,428625): ['02'] info=[(None, None, None)]
+  TextShape "TextBox 11" pos=(9296400,1553369,864987,428625): ['01'] info=[(None, None, None)]
+  TextShape "TextBox 12" pos=(9296400,6936105,864987,428625): ['03'] info=[(None, None, None)]
+  Group "Group 13" pos=(10734675,4248150,6886575,1370648):
+    Child "TextBox 14" pos=(0,0,9182100,660400): ['Cumulative'] info=[(None, None, None)]
+    Child "TextBox 15" pos=(0,1304714,9182100,522817): ['Assesses total rainfall effects over time.'] info=[(None, None, None)]
+  Group "Group 16" pos=(10734675,1562100,6886575,1370648):
+    Child "TextBox 17" pos=(0,0,9182100,660400): ['Contemporaneous'] info=[(None, None, None)]
+    Child "TextBox 18" pos=(0,1304714,9182100,522817): ['Evaluates immediate rainfall impact on yield.'] info=[(None, None, None)]
+=== SLIDE 33 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['33'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,2613025): ['Explainability in Crop Yield Models'] info=[(None, None, None)]
+=== SLIDE 34 ===
+  Group "Group 2" pos=(0,0,7858125,10287000):
+    Child "Freeform 3" pos=(0,0,1031988,1350966): [] info=[]
+  Group "Group 4" pos=(666750,666750,6545058,8953500):
+    Child "Freeform 5" pos=(0,0,768828,1051741): [] info=[]
+  TextShape "TextBox 6" pos=(9296400,733425,8324850,2263775): ['Rainfall Lag Contributions'] info=[(None, None, None)]
+  TextShape "TextBox 7" pos=(9296400,7854950,8324850,1765300): ['This section visually represents how different rainfall lags contribute to yield predictions, using SHAP-based feature attribution to highlight the importance of temporal rainfall effects in crop forecasting.'] info=[(None, None, None)]
+=== SLIDE 35 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['35'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Expected Research Contributions'] info=[(None, None, None)]
+=== SLIDE 36 ===
+  Group "Group 2" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 3" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 5" pos=(2105025,1562100,9763125,6318250):
+    Child "TextBox 6" pos=(0,1206500,13017500,7217833): ['The study aims to provide:', 'A systematic representation of rainfall-yield temporal lag structures.', 'An empirical evaluation of the impact of lag-aware precipitation features on yield prediction.', 'A comparative analysis of crop-specific lag responses to weather variations.', 'An explainable characterization of critical rainfall exposure windows influencing crop yield.', 'A reproducible experimental framework for climate-aware crop forecasting, enabling further research and application within agricultural practices in Kerala.'] info=[(None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None)]
+    Child "TextBox 7" pos=(0,0,13017500,660400): ['Expected contributions to agricultural forecasting'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 37 ===
+  TextShape "TextBox 2" pos=(17259300,9220200,152400,190500): ['37'] info=[(None, None, None)]
+  Group "Group 3" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 4" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 5" pos=(0,-38100,4465383,2396223): [] info=[]
+  TextShape "Freeform 6" pos=(16099474,7952721,2112604,1859092): [] info=[]
+  TextShape "TextBox 7" pos=(1800225,1476375,12944475,1298575): ['Limitations and Threats'] info=[(None, None, None)]
+=== SLIDE 38 ===
+  Group "Group 2" pos=(666750,666750,16954500,8953500):
+    Child "Freeform 3" pos=(0,0,4465383,2358124): [] info=[]
+    Child "TextBox 4" pos=(0,-38100,4465383,2396223): [] info=[]
+  Group "Group 5" pos=(2105025,1562100,9763125,6127750):
+    Child "TextBox 6" pos=(0,1206500,13017500,6963833): ['Data availability and completeness may hinder accurate predictions.', 'Spatial aggregation across districts can obscure localized variations.', 'Confounding agricultural factors such as crop management practices influence outcomes.', 'Irrigation effects complicate the understanding of rainfall impacts.', 'Variability in fertilizer and input usage can skew results.', 'Extreme weather events may introduce unpredictability in yield responses.', 'Non-stationarity under climate change raises questions about model stability.', 'Potential temporal leakage between training and test datasets must be mitigated.'] info=[(None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None), (None, None, None)]
+    Child "TextBox 7" pos=(0,0,13017500,660400): ['Key Limitations and Threats to Validity'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(16099474,7952721,2112604,1859092): [] info=[]
+=== SLIDE 39 ===
+  TextShape "TextBox 2" pos=(669118,3367087,5445932,390525): ['Phase 1: Data Acquisition'] info=[(None, None, None)]
+  TextShape "TextBox 3" pos=(669118,5105400,5445932,1397000): ['In this phase, researchers will gather extensive historical data on rainfall, temperature, and crop yields across various districts in Kerala, ensuring comprehensive coverage for analysis.'] info=[(None, None, None)]
+  TextShape "TextBox 4" pos=(6419850,3367087,5446184,390525): ['Phase 2: Preprocessing'] info=[(None, None, None)]
+  TextShape "TextBox 5" pos=(6421966,5105400,5446184,1397000): ['The collected data will undergo rigorous cleaning and preprocessing to address missing values, standardize formats, and ensure alignment with the temporal resolution of interest.'] info=[(None, None, None)]
+  TextShape "TextBox 6" pos=(12172950,2967037,5448300,790575): ['Phase 3: Temporal Feature Construction'] info=[(None, None, None)]
+  TextShape "TextBox 7" pos=(12172950,5105400,5448300,1397000): ['Researchers will construct lagged rainfall features utilizing historical data, creating a structured temporal feature space that captures delayed precipitation effects for improved yield modeling.'] info=[(None, None, None)]
+  TextShape "AutoShape 8" pos=(992968,4410075,17607376,0): [] info=[]
+  Group "Group 9" pos=(669118,4248150,323850,323850):
+    Child "Freeform 10" pos=(0,0,6350000,6350000): [] info=[]
+  Group "Group 11" pos=(6421966,4248150,323850,323850):
+    Child "Freeform 12" pos=(0,0,6350000,6350000): [] info=[]
+  Group "Group 13" pos=(12172950,4248150,323850,323850):
+    Child "Freeform 14" pos=(0,0,6350000,6350000): [] info=[]
+  TextShape "TextBox 15" pos=(666750,809625,16954500,1069976): ['Research Timeline'] info=[(None, None, None)]
+=== SLIDE 40 ===
+  Group "Group 2" pos=(0,0,7858125,10287000):
+    Child "Freeform 3" pos=(0,0,1031988,1350966): [] info=[]
+  Group "Group 4" pos=(1052512,666750,5753100,8953500):
+    Child "Freeform 5" pos=(0,0,814724,1267949): [] info=[]
+  TextShape "TextBox 6" pos=(9296400,8392160,8324850,1228090): ['Integrating insights for sustainable agriculture'] info=[(None, None, None)]
+  TextShape "TextBox 7" pos=(9303759,942975,8317491,3894609): ['Research Framework'] info=[(None, None, None)]
+  TextShape "Freeform 8" pos=(5418783,7952721,2112604,1859092): [] info=[]
